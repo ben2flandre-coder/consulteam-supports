@@ -8,3 +8,4 @@ Aucune donnée nominative. Espaces formateur non liés.
 ## Mises à jour
 - 18/11/2026 : session A2609LA retirée (travail en hauteur du 20/11 annulé), remplacée par A260GQA (SST MAC du 20/11). Ajout de 260020A (AIPR opérateur du 30/11). A260EXA (SST initiale reportée) remplacée par A260GNA (3 et 9 décembre). A2600EY retirée (annulée). Registre CSV régénéré.
 - 18/11/2026 (suite) : ajout de A2703AA (habilitation électrique initiale, 4 et 5 janvier 2027) : site apprenant, livret du site (45 p.) et livret de formation apprenant (24 p.). Registre CSV mis à jour.
+- 18/11/2026 (harmonisation) : les 39 livrets PDF reprennent la même charte graphique (première et quatrième de couverture Consulteam Groupe : bandeau ambre, titre, maquettes de pages, QR vers le site ; pied de page « n / N » uniforme). Pagination, poids et empreintes SHA-256 du registre recalculés.
