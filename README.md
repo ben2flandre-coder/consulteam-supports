@@ -16,3 +16,5 @@ Aucune donnée nominative. Espaces formateur non liés.
 - 18/11/2026 (A26094A, HACCP en biscuiterie) : livrets mis à jour : livret du site 40 p. et livret de formation apprenant 38 p. (nouvelle section « Les visuels de la formation », page « Suivre l'animation » réécrite, sommaire, pagination, date d'édition 18/11/2026). Plateforme PMS ajoutée à la fiche de session. Mode animation et espace formateur du site restent réservés (chiffrés), hors livrets. Registre CSV et empreintes SHA-256 recalculés.
 
 19/11/2026 : A260H4A (CIRCET AG THOLONET, recyclage H0V B2V BR BC, 17-18/12/2026) ajoutée : livret de formation apprenant (27 pages, sans la section « site » propre à A260BNA) et site apprenant. Mode animation et espace formateur non repris (chiffrés, à régénérer). Registre CSV mis à jour.
+
+19/11/2026 (soir) : livret A260H4A complété de deux annexes, « Accident : que faire ? » (recommandation SST ou MAC SST) et « Mon parcours : repères et suivi » : 35 pages, 2,1 Mo. Programme du livret mis à jour (secours le 18/12 de 10:00 à 10:30). Registre CSV et empreinte SHA-256 recalculés.
