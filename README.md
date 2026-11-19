@@ -18,3 +18,5 @@ Aucune donnée nominative. Espaces formateur non liés.
 19/11/2026 : A260H4A (CIRCET AG THOLONET, recyclage H0V B2V BR BC, 17-18/12/2026) ajoutée : livret de formation apprenant (27 pages, sans la section « site » propre à A260BNA) et site apprenant. Mode animation et espace formateur non repris (chiffrés, à régénérer). Registre CSV mis à jour.
 
 19/11/2026 (soir) : livret A260H4A complété de deux annexes, « Accident : que faire ? » (recommandation SST ou MAC SST) et « Mon parcours : repères et suivi » : 35 pages, 2,1 Mo. Programme du livret mis à jour (secours le 18/12 de 10:00 à 10:30). Registre CSV et empreinte SHA-256 recalculés.
+
+19/11/2026 (soir, suite) : A260H4A : livret du site ajouté (55 pages, 3,9 Mo : accueil, parcours, secours, glossaire, galerie, retours d’expérience, ressources, crédits) ; la fiche de session propose maintenant site apprenant, livret du site et livret de formation. Registre CSV mis à jour.
