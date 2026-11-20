@@ -7,6 +7,7 @@ Aucune donnée nominative. Espaces formateur non liés.
 
 ## Mises à jour
 
+- 20/11/2026 : livrets du site 260053A, A2608PA, A260B0A et A260E2A corrigés : mentions de relecture interne retirées (légendes d'images, statuts, sources), pieds d'images harmonisés (« Illustration générée par IA »). Pagination inchangée ; tailles et empreintes SHA-256 recalculées dans le registre.
 - 20/11/2026 : session 260020A (AIPR opérateur du 30/11) retirée, transformée par Consul Team en 260053A (travail en hauteur · port du harnais, 30/11) ; ajout de 260053A : site apprenant, livret du site (85 p.) et livret de formation apprenant (29 p.).
 - 18/11/2026 (parcours et secours) : les livrets des sessions A2703AA, A260B4A et A260E2A comportent deux annexes, « Accident : que faire ? » et « Mon parcours : repères et suivi » (séquences ou modules à cocher, questions pour le formateur), avec sommaire et pagination mis à jour. Pagination, poids et empreintes SHA-256 du registre recalculés.
 - 18/11/2026 : session A2609LA retirée (travail en hauteur du 20/11 annulé), remplacée par A260GQA (SST MAC du 20/11). Ajout de 260020A (AIPR opérateur du 30/11). A260EXA (SST initiale reportée) remplacée par A260GNA (3 et 9 décembre). A2600EY retirée (annulée). Registre CSV régénéré.
